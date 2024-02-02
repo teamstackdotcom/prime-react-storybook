@@ -21,12 +21,14 @@
     "@storybook/react": "^7.6.10",
     "@storybook/react-webpack5": "^7.6.10",
     "@storybook/test": "^7.6.10",
+    "chromatic": "^10.7.0",
     "storybook": "^7.6.10"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build"
+    "build-storybook": "storybook build",
+    "chromatic": "npx chromatic --project-token=chpt_a1a4906bb6fe197"
   },
   "author": "",
   "license": "ISC",
