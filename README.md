@@ -1,6 +1,6 @@
 # Welcome
 
-This is Storybook application for PrimeReact Components 
+This is a Storybook application for PrimeReact Components 
 
 ## Installation
 
